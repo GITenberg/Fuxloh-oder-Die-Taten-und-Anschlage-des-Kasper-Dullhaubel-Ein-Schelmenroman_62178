@@ -1,5 +1,8 @@
 _repo: Fuxloh-oder-Die-Taten-und-Anschlage-des-Kasper-Dullhaubel-Ein-Schelmenroman_62178
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62178-h/images/cover.jpg
 creator:
   author:
     agent_name: Watzlik, Hans
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51808
     wikipedia: https://de.wikipedia.org/wiki/Hans_Watzlik
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62178#Fuxloh-oder-Die-Taten-und-Anschlage-des-Kasper-Dullhaubel-Ein-Schelmenroman
 gutenberg_issued: '2020-05-19'
 gutenberg_type: Text
 identifiers:
